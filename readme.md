@@ -17,3 +17,4 @@
 
 ## Panner Dosa
 * Dosa batter
+* Panner
